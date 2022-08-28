@@ -1,0 +1,24 @@
+body {
+    font-size: 1.2rem;
+}
+
+#mainimage {
+    height: 400px;
+    width: auto;
+}
+
+li {
+    margin: 5px;
+}
+
+#title {
+    font-size: 3rem;
+}
+
+.subtitles {
+    font-size: 2rem;
+}
+
+ul, ol {
+    margin:0;
+}
